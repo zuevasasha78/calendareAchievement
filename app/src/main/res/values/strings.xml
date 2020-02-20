@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">calendareAchievement</string>
+    <string name="about_title">Приложение календарь достижений %1$s</string>
+    <string name="about_message">Создано мной</string>
+
 </resources>
